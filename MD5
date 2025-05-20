@@ -1,0 +1,11 @@
+152edcf5608177d54c3faaebfa160286 *DESCRIPTION
+89e5a5b949253ad45eb26764e7500995 *NAMESPACE
+d22b71824061b167c11eba813edcb926 *R/LSAMBA-package.R
+dc1a713dd9e01a19f8cfe79902b775c0 *R/buildmlx.R
+0d8331feba0fa83eddcae72fe863745f *R/demoFunction.R
+17344c19c8cb8a828627a2813d7acaa3 *R/lixoftConnectors_Rsmlx_Functions.R
+df8420d8f4eec9d55a3bed0115effb2e *README.md
+75d0a007992c60d09f764686e9397c0f *build/partial.rdb
+7c74ef0ed8961de86d2c067070a02a10 *man/LSAMBA-package.Rd
+4c2c3bbbb1832c8faaa279da563fcfb2 *man/buildmlx.Rd
+cb75c7f313516b738d044823c9fa7c70 *man/getMLXdir.Rd
